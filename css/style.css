@@ -224,7 +224,7 @@ button {
 .header_bg {
     width: 100%;
     float: left;
-    background: #1d1d1d
+    background: #1d1d1d;
     height: auto;
     background-size: 100%;
 }
@@ -734,7 +734,7 @@ button {
 }
 
 .date_text {
-    width: 100px;
+    width: 280px;
     font-size: 18px;
     color: #ffffff;
     text-align: center;
@@ -1077,4 +1077,9 @@ textarea#comment.update_mail::placeholder {
 
 .margin_top90 {
     margin-top: 90px;
+}
+
+.text-green{
+    color: #1a944b;
+    font-weight: bold;
 }
